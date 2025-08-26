@@ -13,7 +13,7 @@ A 60‑day coding challenge dedicated to building practical Web Application and 
 
 ---
 
-## 🛡 60 Days of Web & API Security — Multi‑Tech Stack
+##  60 Days of Web & API Security — Multi‑Tech Stack
 
 ### **Phase 1 – Web Recon & Enumeration (Days 1–15)**
 > Goal: Master finding and mapping attack surfaces.

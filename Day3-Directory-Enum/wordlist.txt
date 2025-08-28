@@ -1,0 +1,14 @@
+admin
+www
+api
+v2
+archives
+login
+dashboard
+uploads
+config
+images
+css
+js
+includes
+backup

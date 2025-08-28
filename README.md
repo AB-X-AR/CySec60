@@ -22,7 +22,7 @@ A 60‑day coding challenge dedicated to building practical Web Application and 
 |-----|---------|--------|------|
 | 1 | HTTP Header Analyzer | Security headers, fingerprinting | Python + `requests` |
 | 2 | Subdomain Enumerator | OSINT, DNS | Bash + `dig` |
-| 3 | Directory Brute Forcer | Wordlists, HTTP status codes | JavaScript (Node.js) |
+| 3 | Directory Brute Forcer | Wordlists, HTTP status codes | Python |
 | 4 | Robots.txt & Sitemap Parser | Recon automation | Python |
 | 5 | Favicon Hash Fingerprinter | Tech stack detection | Python + Shodan API |
 | 6 | WHOIS & DNS Lookup Tool | Domain intel | Python + API |
